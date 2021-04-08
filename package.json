@@ -1,0 +1,19 @@
+{
+  "name": "Bot",
+  "version": "1.0.0",
+  "description": "Bot made By Djack",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Djack#0009",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "jimp": "^0.16.1",
+    "js": "^0.1.0",
+    "ms": "^2.1.3",
+    "ytdl-core": "^4.4.5"
+  }
+}
